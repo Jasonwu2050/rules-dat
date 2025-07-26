@@ -5,15 +5,13 @@
     {
       "domain": 
       [
-        "www.qichiyu.com",
-        "alkalicore-pa.clients6.google.com"
+        "www.qichiyu.com"
       ],
       "domain_suffix": 
       [
         "qichiyu.com",
         "naiyous.com"
-      ],
-      "domain_regex": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+      ]
     }
   ]
 }
