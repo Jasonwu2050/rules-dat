@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": 
+  [
+    {
+      "domain": 
+      [
+        "www.wislives.me"
+      ],
+      "domain_suffix": 
+      [
+        "wislives.me"
+      ]
+    }
+  ]
+}
