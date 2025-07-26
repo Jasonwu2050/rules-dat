@@ -1,1 +1,19 @@
-
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": 
+      [
+        "ai.google.dev",
+        "alkalicore-pa.clients6.google.com"
+      ],
+      "domain_suffix": 
+      [
+        "wislives.me",
+        "chutes.ai",
+        "openai.com.cdn.cloudflare.net"
+      ],
+      "domain_regex": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
+    }
+  ]
+}
