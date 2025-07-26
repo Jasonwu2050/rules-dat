@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "rules": [
+  "rules": 
+  [
     {
       "domain": 
       [
-        "ai.google.dev",
+        "www.qichiyu.com",
         "alkalicore-pa.clients6.google.com"
       ],
       "domain_suffix": 
       [
-        "wislives.me",
-        "chutes.ai",
-        "openai.com.cdn.cloudflare.net"
+        "qichiyu.com",
+        "naiyous.com"
       ],
       "domain_regex": "^chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com$"
     }
