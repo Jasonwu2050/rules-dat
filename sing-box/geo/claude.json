@@ -1,1 +1,19 @@
-
+{
+  "version": 2,
+  "rules": 
+  [
+    {
+      "domain": 
+      [
+        "www.claude.ai"
+      ],
+      "domain_suffix": 
+      [
+        "claude.ai",
+        "anthropic.com",
+        "usefathom.com",
+        "intercomcdn.com"
+      ]
+    }
+  ]
+}
