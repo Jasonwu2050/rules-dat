@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": 
+  [
+    {
+      "domain": 
+      [
+        "www.abc.net.au"
+      ],
+      "domain_suffix": 
+      [
+        "abc.net.au"
+      ]
+    }
+  ]
+}
