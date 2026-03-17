@@ -5,12 +5,14 @@
     {
       "domain": 
       [
-        "www.qichiyu.com"
+        "www.qichiyu.com",
+        "www.moomoo.com"
       ],
       "domain_suffix": 
       [
         "qichiyu.com",
-        "naiyous.com"
+        "naiyous.com",
+        "moomoo.com"
       ]
     }
   ]
