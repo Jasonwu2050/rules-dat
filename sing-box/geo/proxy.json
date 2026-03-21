@@ -6,13 +6,15 @@
       "domain": 
       [
         "www.qichiyu.com",
-        "www.moomoo.com"
+        "www.moomoo.com",
+        "www.more.com.au"
       ],
       "domain_suffix": 
       [
         "qichiyu.com",
         "naiyous.com",
-        "moomoo.com"
+        "moomoo.com",
+        "www.more.com.au"
       ]
     }
   ]
